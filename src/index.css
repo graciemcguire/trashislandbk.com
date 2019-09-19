@@ -8,14 +8,14 @@ body {
   /* background-image: -webkit-linear-gradient(45deg, rgb(45, 204, 225), rgb(255, 0, 195)); */
   text-align: center;
   align-items: center;
-  
   background: linear-gradient(353deg, #e500f2, #00dcf3, #b400c6);
   background-size: 800% 800%;
   -webkit-animation: trash-gradient 2s ease infinite;
   -moz-animation: trash-gradient 2s ease infinite;
   animation: trash-gradient 2s ease infinite;
-}
+  border: 15px, solid, white;
 
+}
 @-webkit-keyframes trash-gradient {
     0%{background-position:0% 0%}
     50%{background-position:100% 0%}
@@ -32,7 +32,18 @@ body {
     100%{background-position:0% 0%}
 }
 
-code {
+body:before {
+			content: "";
+			position: fixed; top: 0; bottom: 0; left:0; right:0;
+			border:20px solid white;
+      border-top-color: black;
+      border-right-color: white;
+      border-bottom-color: black;
+      border-left-color: white;
+			padding: 20px;
+}
+
+/* code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
-}
+} */
