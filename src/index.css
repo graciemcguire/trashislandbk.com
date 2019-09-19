@@ -13,9 +13,9 @@ body {
   -webkit-animation: trash-gradient 2s ease infinite;
   -moz-animation: trash-gradient 2s ease infinite;
   animation: trash-gradient 2s ease infinite;
-  border: 15px, solid, white;
-
 }
+
+
 @-webkit-keyframes trash-gradient {
     0%{background-position:0% 0%}
     50%{background-position:100% 0%}
@@ -35,12 +35,15 @@ body {
 body:before {
 			content: "";
 			position: fixed; top: 0; bottom: 0; left:0; right:0;
-			border:20px solid white;
+			border:1em solid white;
       border-top-color: black;
       border-right-color: white;
       border-bottom-color: black;
       border-left-color: white;
-			padding: 20px;
+			padding: 1em;
+      /* display: flex;
+      align-items: center;
+      justify-content: center; */
 }
 
 /* code {
