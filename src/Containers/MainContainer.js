@@ -1,20 +1,23 @@
-import React, { Component } from 'react'
+import React, { Component, Fragment } from 'react'
 import NavBar from '../Components/NavBar'
 import Carousel from '../Components/Carousel'
 import About from '../Components/About'
 import EventCal from '../Components/EventCal'
 import Store from '../Components/Store'
 import Footer from '../Components/Footer'
+import logo from '../logo.svg'
 
 export default class MainContainer extends Component {
   render() {
     return(
-    <div className='main'>
-      <h1>Trash Island</h1>
-      <h4>616 Halsey St Brooklyn</h4>
-      <h4>M-F 7 - 7</h4>
-    </div>
+      <Fragment>
+        <img className='logo' src={ logo } alt='logo'/>
 
+        <div className='main'>
+          <h4>616 Halsey St Brooklyn</h4>
+        <h4>M-F 7 - 7</h4>
+      </div>
+    </ Fragment>
     )
   }
 }
