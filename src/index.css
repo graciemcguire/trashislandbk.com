@@ -41,9 +41,17 @@ body:before {
       border-bottom-color: black;
       border-left-color: white;
 			padding: 1em;
-      /* display: flex;
+      display: flex;
       align-items: center;
-      justify-content: center; */
+      justify-content: center;
+}
+
+.logo-main {
+  display: flex;
+  width: 80%;
+  margin: 10%;
+  margin-top: 22%;
+  justify-content: center;
 }
 
 /* code {

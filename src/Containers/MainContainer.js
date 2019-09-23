@@ -11,13 +11,13 @@ export default class MainContainer extends Component {
   render() {
     return(
       <Fragment>
-        <img className='logo' src={ logo } alt='logo'/>
+        <img className='logo-main' src={ logo } alt='logo'/>
 
         <div className='main'>
           <h4>616 Halsey St Brooklyn</h4>
-        <h4>M-F 7 - 7</h4>
-      </div>
-    </ Fragment>
+          <h4>hours: open</h4>
+        </div>
+      </ Fragment>
     )
   }
 }
