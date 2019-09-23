@@ -13,6 +13,7 @@ body {
   -webkit-animation: trash-gradient 2s ease infinite;
   -moz-animation: trash-gradient 2s ease infinite;
   animation: trash-gradient 2s ease infinite;
+  font-family: 'Crimson Text', serif;
 }
 
 
