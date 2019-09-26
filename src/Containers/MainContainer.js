@@ -17,7 +17,7 @@ export default class MainContainer extends Component {
           <h4>616 HALSEY ST BROOKLYN, NY 11233</h4>
           <h4></h4>
           <h4>OPEN 8-8 DAILY</h4>
-          <a href="mailto:john@example.com">John< /a>
+          <a href="mailto:trashislandbk@gmail.com">email< /a>
         </div>
       </ Fragment>
     )
