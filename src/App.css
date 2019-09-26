@@ -1,7 +1,10 @@
 .main {
-  border: .3em solid white;
+  /* border: .3em solid white; */
+  color: white;
+  font-size: .79em;
+  margin: 23%;
 
-  margin: 25%;
+  /* font-kerning: auto; */
 }
 
 .App {
