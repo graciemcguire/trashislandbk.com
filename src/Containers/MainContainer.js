@@ -14,7 +14,7 @@ export default class MainContainer extends Component {
         <img className='logo-main' src={ logo } alt='logo'/>
 
         <div className='main'>
-          <h4>616 Halsey St Brooklyn</h4>
+          <h4>6 1 6   H A L S E Y   S T</h4>
           <h4>hours: open</h4>
         </div>
       </ Fragment>
