@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/trash-island/static/css/main.722e2035.chunk.css",
-    "main.js": "/trash-island/static/js/main.7d3c191b.chunk.js",
-    "main.js.map": "/trash-island/static/js/main.7d3c191b.chunk.js.map",
+    "main.css": "/trash-island/static/css/main.06660f16.chunk.css",
+    "main.js": "/trash-island/static/js/main.85595f8b.chunk.js",
+    "main.js.map": "/trash-island/static/js/main.85595f8b.chunk.js.map",
     "runtime~main.js": "/trash-island/static/js/runtime~main.94b09be2.js",
     "runtime~main.js.map": "/trash-island/static/js/runtime~main.94b09be2.js.map",
-    "static/js/2.ec93214b.chunk.js": "/trash-island/static/js/2.ec93214b.chunk.js",
-    "static/js/2.ec93214b.chunk.js.map": "/trash-island/static/js/2.ec93214b.chunk.js.map",
+    "static/js/2.249420ef.chunk.js": "/trash-island/static/js/2.249420ef.chunk.js",
+    "static/js/2.249420ef.chunk.js.map": "/trash-island/static/js/2.249420ef.chunk.js.map",
     "index.html": "/trash-island/index.html",
-    "precache-manifest.032f8fe6b7b50f6df5b258cdb252d84a.js": "/trash-island/precache-manifest.032f8fe6b7b50f6df5b258cdb252d84a.js",
+    "precache-manifest.a0dacde75ca0549100e2c3cf88614687.js": "/trash-island/precache-manifest.a0dacde75ca0549100e2c3cf88614687.js",
     "service-worker.js": "/trash-island/service-worker.js",
-    "static/css/main.722e2035.chunk.css.map": "/trash-island/static/css/main.722e2035.chunk.css.map",
+    "static/css/main.06660f16.chunk.css.map": "/trash-island/static/css/main.06660f16.chunk.css.map",
     "static/media/email.svg": "/trash-island/static/media/email.cd1d4bce.svg",
     "static/media/insta.svg": "/trash-island/static/media/insta.068d3f09.svg",
     "static/media/logo.svg": "/trash-island/static/media/logo.27a03e5c.svg",
-    "static/media/palm-top.svg": "/trash-island/static/media/palm-top.afece8b7.svg"
+    "static/media/palm-top.svg": "/trash-island/static/media/palm-top.afece8b7.svg",
+    "static/media/trashisland_menu.pdf": "/trash-island/static/media/trashisland_menu.b2d1d93d.pdf"
   }
 }
