@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/trash-island/static/css/main.feb895e8.chunk.css",
+    "main.css": "/trash-island/static/css/main.3b5c4fe0.chunk.css",
     "main.js": "/trash-island/static/js/main.180f2346.chunk.js",
     "main.js.map": "/trash-island/static/js/main.180f2346.chunk.js.map",
     "runtime~main.js": "/trash-island/static/js/runtime~main.94b09be2.js",
@@ -8,9 +8,9 @@
     "static/js/2.548e0644.chunk.js": "/trash-island/static/js/2.548e0644.chunk.js",
     "static/js/2.548e0644.chunk.js.map": "/trash-island/static/js/2.548e0644.chunk.js.map",
     "index.html": "/trash-island/index.html",
-    "precache-manifest.9440e7e6018eb6a957c2a995068734c8.js": "/trash-island/precache-manifest.9440e7e6018eb6a957c2a995068734c8.js",
+    "precache-manifest.e8710136c8eac6888e1e16df0630dcf5.js": "/trash-island/precache-manifest.e8710136c8eac6888e1e16df0630dcf5.js",
     "service-worker.js": "/trash-island/service-worker.js",
-    "static/css/main.feb895e8.chunk.css.map": "/trash-island/static/css/main.feb895e8.chunk.css.map",
+    "static/css/main.3b5c4fe0.chunk.css.map": "/trash-island/static/css/main.3b5c4fe0.chunk.css.map",
     "static/media/logo.svg": "/trash-island/static/media/logo.8cada3c5.svg"
   }
 }
