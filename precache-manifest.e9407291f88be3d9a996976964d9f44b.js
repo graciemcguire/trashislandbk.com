@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f05e761962ccc09caa61b95852b81001",
+    "revision": "f4ff71cd9c98d8c12a2422a0837ce37f",
     "url": "/trash-island/index.html"
   },
   {
-    "revision": "15ff60f87f3e1ebcf095",
-    "url": "/trash-island/static/css/main.f3f5bd90.chunk.css"
+    "revision": "2f4a2ef3b9450992457b",
+    "url": "/trash-island/static/css/main.ca9c3243.chunk.css"
   },
   {
     "revision": "8ac306522c96742c9819",
     "url": "/trash-island/static/js/2.ec93214b.chunk.js"
   },
   {
-    "revision": "15ff60f87f3e1ebcf095",
+    "revision": "2f4a2ef3b9450992457b",
     "url": "/trash-island/static/js/main.7d3c191b.chunk.js"
   },
   {
