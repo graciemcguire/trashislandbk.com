@@ -67,7 +67,8 @@ h4 {
 
 
 .link-images {
-  width: 7%
+  width: 7%;
+  padding: 2%
 }
 /* code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
