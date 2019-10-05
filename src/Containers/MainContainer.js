@@ -1,12 +1,8 @@
 import React, { Component, Fragment } from 'react'
-import NavBar from '../Components/NavBar'
-import Carousel from '../Components/Carousel'
-import About from '../Components/About'
-import EventCal from '../Components/EventCal'
-import Store from '../Components/Store'
-import Footer from '../Components/Footer'
 import logo from '../logo.svg'
 import palm from '../palm-top.svg'
+import insta from '../insta.svg'
+import email from '../email.svg'
 
 export default class MainContainer extends Component {
   render() {
@@ -18,7 +14,12 @@ export default class MainContainer extends Component {
           <h4>616 HALSEY ST BROOKLYN, NY 11233</h4>
           <h4></h4>
           <h4>OPEN 8-8 DAILY</h4>
-          <a href="mailto:trashislandbk@gmail.com">email< /a>
+
+        </div>
+        <div className='links'>
+          <img className='link-images' src={ insta } alt='instagram'/>
+          <img className='link-images' src={ email } alt='email'/>
+
         </div>
       </ Fragment>
     )
