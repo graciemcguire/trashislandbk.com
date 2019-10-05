@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/trash-island/static/css/main.3b5c4fe0.chunk.css",
-    "main.js": "/trash-island/static/js/main.180f2346.chunk.js",
-    "main.js.map": "/trash-island/static/js/main.180f2346.chunk.js.map",
+    "main.css": "/trash-island/static/css/main.c121c374.chunk.css",
+    "main.js": "/trash-island/static/js/main.f89f1616.chunk.js",
+    "main.js.map": "/trash-island/static/js/main.f89f1616.chunk.js.map",
     "runtime~main.js": "/trash-island/static/js/runtime~main.94b09be2.js",
     "runtime~main.js.map": "/trash-island/static/js/runtime~main.94b09be2.js.map",
-    "static/js/2.548e0644.chunk.js": "/trash-island/static/js/2.548e0644.chunk.js",
-    "static/js/2.548e0644.chunk.js.map": "/trash-island/static/js/2.548e0644.chunk.js.map",
+    "static/js/2.179f4c70.chunk.js": "/trash-island/static/js/2.179f4c70.chunk.js",
+    "static/js/2.179f4c70.chunk.js.map": "/trash-island/static/js/2.179f4c70.chunk.js.map",
     "index.html": "/trash-island/index.html",
-    "precache-manifest.e8710136c8eac6888e1e16df0630dcf5.js": "/trash-island/precache-manifest.e8710136c8eac6888e1e16df0630dcf5.js",
+    "precache-manifest.ab48eb3dc9b839cd4d0b6eb00257b36e.js": "/trash-island/precache-manifest.ab48eb3dc9b839cd4d0b6eb00257b36e.js",
     "service-worker.js": "/trash-island/service-worker.js",
-    "static/css/main.3b5c4fe0.chunk.css.map": "/trash-island/static/css/main.3b5c4fe0.chunk.css.map",
-    "static/media/logo.svg": "/trash-island/static/media/logo.8cada3c5.svg"
+    "static/css/main.c121c374.chunk.css.map": "/trash-island/static/css/main.c121c374.chunk.css.map",
+    "static/media/logo.svg": "/trash-island/static/media/logo.27a03e5c.svg",
+    "static/media/palm-top.svg": "/trash-island/static/media/palm-top.afece8b7.svg"
   }
 }
