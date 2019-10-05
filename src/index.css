@@ -37,10 +37,6 @@ body:before {
 			content: "";
 			position: fixed; top: 0; bottom: 0; left:0; right:0;
 			border:1em solid white;
-      border-top-color: black;
-      border-right-color: white;
-      border-bottom-color: black;
-      border-left-color: white;
 			padding: 1em;
       display: flex;
       align-items: center;
@@ -60,6 +56,12 @@ h4 {
   color: white
 }
 
+.palm-top {
+  z-index: -3;
+  display: flex;
+  flex-direction: column;
+  width: 40%
+}
 /* code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
