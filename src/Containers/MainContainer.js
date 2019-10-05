@@ -3,6 +3,7 @@ import logo from '../logo.svg'
 import palm from '../palm-top.svg'
 import insta from '../insta.svg'
 import email from '../email.svg'
+import pdf from '../trashisland_menu.pdf';
 
 export default class MainContainer extends Component {
   render() {
@@ -15,6 +16,8 @@ export default class MainContainer extends Component {
           <h4>BROOKLYN, NY 11233</h4>
           <h4></h4>
           <h4>OPEN 8-8 DAILY</h4>
+          <br/>
+          <h4><a className='menu' href = {pdf} target = "_blank">MENU</a></h4>
 
         </div>
           <a href="http://www.instagram.com/trashislandbk" target="_blank">

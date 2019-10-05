@@ -72,6 +72,12 @@ h4 {
   padding: 2%;
   z-index: 9999;
 }
+
+.menu {
+  text-decoration: none;
+  color: white;
+  font-size: .79em;
+}
 /* code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
