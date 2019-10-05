@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "04bcb7f6e31174100baa7a292df79bb0",
+    "revision": "ac1cc02fab2537f1e8527b94168668af",
     "url": "/trash-island/index.html"
   },
   {
-    "revision": "471f95a307f707e90ed3",
+    "revision": "d6787a90b1675be38a3b",
     "url": "/trash-island/static/css/main.ef4505d1.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/trash-island/static/js/2.ec93214b.chunk.js"
   },
   {
-    "revision": "471f95a307f707e90ed3",
-    "url": "/trash-island/static/js/main.e1655f80.chunk.js"
+    "revision": "d6787a90b1675be38a3b",
+    "url": "/trash-island/static/js/main.4793ab84.chunk.js"
   },
   {
     "revision": "c67445124bfd18a7f8b2",
