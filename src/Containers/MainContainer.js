@@ -11,15 +11,15 @@ export default class MainContainer extends Component {
       <Fragment>
         <img className='palm-top' src={ palm } alt='palm leaf'/>
         <img className='logo-main' src={ logo } alt='logo'/>
+        
         <div className='main'>
           <h4>616 HALSEY ST</h4>
           <h4>BROOKLYN, NY 11233</h4>
-          <h4></h4>
           <h4>OPEN 8-8 DAILY</h4>
           <br/>
           <h4><a className='menu' href = {pdf} target = "_blank">MENU</a></h4>
-
         </div>
+
           <a href="http://www.instagram.com/trashislandbk" target="_blank">
             <img className='link-images' src={ insta } alt='instagram'/>
           </a>
