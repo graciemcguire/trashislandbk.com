@@ -1,1 +1,2 @@
-trashisland.com
+trashislandbk.com
+www.trashislandbk.com
