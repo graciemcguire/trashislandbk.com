@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "trashislandbk.com/static/css/main.f498d01b.chunk.css",
-    "main.js": "trashislandbk.com/static/js/main.de2dcd82.chunk.js",
-    "main.js.map": "trashislandbk.com/static/js/main.de2dcd82.chunk.js.map",
+    "main.js": "trashislandbk.com/static/js/main.9bb9208a.chunk.js",
+    "main.js.map": "trashislandbk.com/static/js/main.9bb9208a.chunk.js.map",
     "runtime~main.js": "trashislandbk.com/static/js/runtime~main.c0a545f0.js",
     "runtime~main.js.map": "trashislandbk.com/static/js/runtime~main.c0a545f0.js.map",
     "static/js/2.249420ef.chunk.js": "trashislandbk.com/static/js/2.249420ef.chunk.js",
     "static/js/2.249420ef.chunk.js.map": "trashislandbk.com/static/js/2.249420ef.chunk.js.map",
     "index.html": "trashislandbk.com/index.html",
-    "precache-manifest.e97dbea6a4e1b49d271a201e532a5fc9.js": "trashislandbk.com/precache-manifest.e97dbea6a4e1b49d271a201e532a5fc9.js",
+    "precache-manifest.1428e0894c0083fdd1797a2b827d879e.js": "trashislandbk.com/precache-manifest.1428e0894c0083fdd1797a2b827d879e.js",
     "service-worker.js": "trashislandbk.com/service-worker.js",
     "static/css/main.f498d01b.chunk.css.map": "trashislandbk.com/static/css/main.f498d01b.chunk.css.map",
     "static/media/email.svg": "trashislandbk.com/static/media/email.cd1d4bce.svg",

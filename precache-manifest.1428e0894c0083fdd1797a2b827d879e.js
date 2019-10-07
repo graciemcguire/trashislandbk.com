@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "668f27bc7de87d638a2094c8e0764a6c",
+    "revision": "d5057a97b48cd2a110742e4bf7cebb9c",
     "url": "trashislandbk.com/index.html"
   },
   {
-    "revision": "1a04a53d3b3556cbfc26",
+    "revision": "ccf83487b1edbf2e629c",
     "url": "trashislandbk.com/static/css/main.f498d01b.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "trashislandbk.com/static/js/2.249420ef.chunk.js"
   },
   {
-    "revision": "1a04a53d3b3556cbfc26",
-    "url": "trashislandbk.com/static/js/main.de2dcd82.chunk.js"
+    "revision": "ccf83487b1edbf2e629c",
+    "url": "trashislandbk.com/static/js/main.9bb9208a.chunk.js"
   },
   {
     "revision": "879e307c4b97fca1a959",
