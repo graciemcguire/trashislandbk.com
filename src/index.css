@@ -15,8 +15,20 @@ body {
   font-family: 'Crimson Text', serif;
   padding: 1em;
   /* display: flex; */
-  align-items: center;
-  justify-content: center;
+  /* align-items: center;
+  justify-content: center; */
+
+}
+
+.center-all {
+  max-width: 65vh;
+  /* margin: auto; */
+}
+.center-main {
+  /* justify-content: center; */
+  /* max-width: 65vh; */
+  /* margin: auto; */
+  width: inherit;
 }
 
 @-webkit-keyframes trash-gradient {
