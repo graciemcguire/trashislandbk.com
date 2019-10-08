@@ -29,7 +29,7 @@ export default class MainContainer extends Component {
                 <img className='link-images' src={ email } alt='email'/>
               </a>
           </div>
-      </div>
+        </div>
       </ Fragment>
     )
   }
