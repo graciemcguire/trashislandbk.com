@@ -28,7 +28,8 @@ body {
   /* justify-content: center; */
   /* max-width: 65vh; */
   /* margin: auto; */
-  width: inherit;
+  /* max-width: 60vw; */
+  /* height: 65vh; */
 }
 
 @-webkit-keyframes trash-gradient {
