@@ -7,6 +7,8 @@ import pdf from '../trashisland_menu.pdf';
 
 export default class MainContainer extends Component {
   render() {
+    console.log("Made with ❤️ by Gracie McGuire in 2019");
+    console.log("github.com/graciemcguire 🏝");
     return(
       <Fragment>
         <div className='center-all'>
