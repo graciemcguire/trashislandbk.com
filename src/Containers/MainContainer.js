@@ -19,7 +19,7 @@ export default class MainContainer extends Component {
             <div className='main'>
               <h4>616 HALSEY ST</h4>
               <h4>BROOKLYN, NY 11233</h4>
-              <h4>OPEN 8-5 DAILY</h4>
+              <h4>OPEN 8-5(ish) DAILY</h4>
               <br/>
               <h4><a className='menu' href= {pdf} target = "_blank">MENU</a></h4>
             </div>
